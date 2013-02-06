@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:produto xmlns:ns2="http://www.caelum.com.br/fj31">
+    <categoria>
+        <nome>esporte</nome>
+    </categoria>
+    <descricao>uma bola quadrada</descricao>
+    <nome>bola</nome>
+    <preco>20.34</preco>
+</ns2:produto>
